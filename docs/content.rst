@@ -93,7 +93,7 @@ interprets the HTML in a very straightforward manner, reading metadata from
         </body>
     </html>
 
-With HTML, there is one simple exception to the standard metadata: ``tags`` can
+With HTML, there is one simple exception to the standard metadata: tags can
 be specified either via the ``tags`` metadata, as is standard in Pelican, or
 via the ``keywords`` metadata, as is standard in HTML. The two can be used
 interchangeably.
